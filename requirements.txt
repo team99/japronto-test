@@ -1,0 +1,3 @@
+git+https://github.com/squeaky-pl/japronto.git#egg=japronto
+orjson==3.5.1
+
